@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="change_fon">Выбрать цвет фона</string>
+    <string name="message">Хотите поменять фон?</string>
+    <string name="pink">Розовый</string>
+    <string name="yellow">Желтый</string>
+    <string name="pink_but"></string>
+    <string name="green">Зеленый</string>
+    <string name="purple">Фиолетовый</string>
+    <string name="yellow_but"></string>
+    <string name="green_but"></string>
+    <string name="purple_but"></string>
+    <color name="green">#7CB342</color>
+    <color name="pink">#EA3B7B</color>
+    <color name="yellow">#FFB300</color>
+    <color name="purple">#C958E6</color>
+    <color name="green_but">#43A047</color>
+    <color name="pink_but">#D81B60</color>
+    <color name="yellow_but">#FB8C00</color>
+    <color name="purple_but">#8E24AA</color>
+</resources>
